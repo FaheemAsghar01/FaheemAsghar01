@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaheemAsghar01
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m a full stack developer.
-- 💞️ I’m looking to collaborate on flutter, react.js, next.js, and node.js project
+- 💞️ I’m looking to collaborate on react native, react.js, next.js, and node.js project
 - 📫 You can contact me with a single message.
 
 <!---
